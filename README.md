@@ -17,6 +17,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Anchovia/noslog)
 [![Website](https://img.shields.io/badge/Website-24292f?style=flat-square)](https://noslog.app/ko)
+[![Stars](https://img.shields.io/github/stars/Anchovia/noslog?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f)](https://github.com/Anchovia/noslog/stargazers)
 
 ---
 
@@ -26,6 +27,7 @@ DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다. 입력 �
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Anchovia/beatscope)
 [![Download](https://img.shields.io/badge/Download-24292f?style=flat-square)](https://github.com/Anchovia/beatscope/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Anchovia/beatscope?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f)](https://github.com/Anchovia/beatscope/stargazers)
 
 ---
 
