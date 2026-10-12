@@ -44,5 +44,13 @@ SMAA의 Spatial 및 Temporal AA를 최적화하는 연구 프로젝트입니다.
 
 ## Dashboard
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Anchovia&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anchovia&theme=github-dark-blue&hide_border=true)
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Anchovia&show_icons=true&theme=github_dark&hide_border=true" width="100%" alt="GitHub Stats">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=Anchovia&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
