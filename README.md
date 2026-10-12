@@ -9,7 +9,7 @@
 
 ## Projects
 
-### <img src="https://raw.githubusercontent.com/Anchovia/noslog/main/public/logo.png" width="32" height="32" align="middle" alt=""> NosLog
+### <img src="https://raw.githubusercontent.com/Anchovia/noslog/main/public/logo.png" width="24" height="24" align="absmiddle" alt=""> NosLog
 
 **NOSTALGIA 기록 · 랭킹 · 서열 아카이브**
 
@@ -20,7 +20,7 @@
 
 ---
 
-### <img width="32" height="32" align="middle" alt="" src="https://github.com/user-attachments/assets/31d81f5a-1f41-473b-b397-1062d20a5a5e" /> Beatscope
+### <img width="24" height="24" align="absmiddle" alt="" src="https://github.com/user-attachments/assets/31d81f5a-1f41-473b-b397-1062d20a5a5e" /> Beatscope
 
 DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다. 입력 기록을 리플레이로 확인하고 노트별 FAST/SLOW를 살펴볼 수 있으며, OBS 방송용 키뷰어와 실시간 판정 오버레이를 지원합니다.
 
