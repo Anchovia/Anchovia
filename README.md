@@ -16,8 +16,8 @@
 플레이 기록과 성과를 관리하고, 채보부터 빙고·검정·오락실까지 게임에 필요한 정보를 찾아볼 수 있습니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Anchovia/noslog)
-[![Website](https://img.shields.io/badge/Website-24292f?style=flat-square)](https://noslog.app/ko)
 [![Stars](https://img.shields.io/github/stars/Anchovia/noslog?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f)](https://github.com/Anchovia/noslog/stargazers)
+[![Website](https://img.shields.io/badge/Website-24292f?style=flat-square)](https://noslog.app/ko)
 
 ---
 
@@ -26,8 +26,8 @@
 DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다. 입력 기록을 리플레이로 확인하고 노트별 FAST/SLOW를 살펴볼 수 있으며, OBS 방송용 키뷰어와 실시간 판정 오버레이를 지원합니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Anchovia/beatscope)
-[![Download](https://img.shields.io/badge/Download-24292f?style=flat-square)](https://github.com/Anchovia/beatscope/releases/latest)
 [![Stars](https://img.shields.io/github/stars/Anchovia/beatscope?style=flat-square&label=%E2%98%85&labelColor=24292f&color=24292f)](https://github.com/Anchovia/beatscope/stargazers)
+[![Download](https://img.shields.io/badge/Download-24292f?style=flat-square)](https://github.com/Anchovia/beatscope/releases/latest)
 
 ---
 
