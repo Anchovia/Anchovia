@@ -9,7 +9,7 @@
 
 ## Projects
 
-### <img src="https://raw.githubusercontent.com/Anchovia/noslog/main/public/logo.png" width="24" height="24" align="absmiddle" alt=""> NosLog
+### <img src="https://noslog.app/icon" width="24" height="24" align="absmiddle" alt=""> NosLog
 
 **NOSTALGIA 기록 · 랭킹 · 서열 아카이브**
 
