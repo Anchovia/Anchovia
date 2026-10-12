@@ -17,12 +17,15 @@
 
 [NosLog 방문하기](https://noslog.app/ko)
 
+---
+
 ### [Beatscope](https://github.com/Anchovia/beatscope)
 
-DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다.
-입력 기록을 리플레이로 확인하고 노트별 FAST/SLOW를 살펴볼 수 있으며, OBS 방송용 키뷰어와 실시간 판정 오버레이를 지원합니다.
+DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다. 입력 기록을 리플레이로 확인하고 노트별 FAST/SLOW를 살펴볼 수 있으며, OBS 방송용 키뷰어와 실시간 판정 오버레이를 지원합니다.
 
 [Beatscope 다운로드](https://github.com/Anchovia/beatscope/releases/latest)
+
+---
 
 ### [Adaptive SMAA](https://github.com/Anchovia/Adaptive-SMAA)
 
