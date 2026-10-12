@@ -1,5 +1,3 @@
-# Hi, I'm Anchovia (ByeonHun Jeon) 👋
-
 ## About Me
 
 코딩과 게임을 좋아하는 학생이에요!  
