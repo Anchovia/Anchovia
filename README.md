@@ -3,6 +3,11 @@
 코딩과 게임을 좋아하는 학생이에요!  
 취미로 재미있고 인터랙티브한 서비스를 만듭니다.
 
+## Contact
+
+[![Discord](https://img.shields.io/badge/Discord-24292f?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/249864701348020234)
+[![Email](https://img.shields.io/badge/Email-24292f?style=flat-square&logo=naver&logoColor=white)](mailto:sodacandy77@naver.com)
+
 ## Languages
 
 ![Languages](https://skillicons.dev/icons?i=ts,js,cpp,cs,py,java)
@@ -36,3 +41,8 @@ DJMAX RESPECT V 플레이를 기록하고 분석하는 도구입니다. 입력 �
 SMAA의 Spatial 및 Temporal AA를 최적화하는 연구 프로젝트입니다.
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/Anchovia/Adaptive-SMAA)
+
+## Dashboard
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Anchovia&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anchovia&theme=github-dark-blue&hide_border=true)
